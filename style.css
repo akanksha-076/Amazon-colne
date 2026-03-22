@@ -177,6 +177,7 @@ footer{
     align-items: center;
     font-size: 0.8rem;
 }
+
 .foot-pan2{
     background-color: #222f3d;
     color: white;
@@ -184,6 +185,7 @@ footer{
     display: flex;
     justify-content: space-evenly;
 }
+
 ul{
     margin-top: 20px;
 }
